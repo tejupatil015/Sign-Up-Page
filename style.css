@@ -69,3 +69,10 @@ body{
     color: #ffcccb;
 }
 
+.options{
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    margin-bottom: 25px;
+}
+
