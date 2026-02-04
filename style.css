@@ -38,4 +38,8 @@ body{
     margin-bottom: 30px;
     opacity: 0.9;
 }
+.input-group{
+    position: relative;
+    margin-bottom: 25px;
+}
 
