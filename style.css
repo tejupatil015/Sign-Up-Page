@@ -62,4 +62,10 @@ body{
     pointer-events: none;
     transition: 0.3s;
 }
+.input-group input:focus ~ label,
+.input-group input:valid ~ label{
+    top: -10px;
+    font-size: 12px;
+    color: #ffcccb;
+}
 
