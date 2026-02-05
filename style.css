@@ -110,3 +110,6 @@ button:hover{
     color: #ffcccb;
     text-decoration: none;
 }    
+.register a:hover{
+    text-decoration: underline;
+}
