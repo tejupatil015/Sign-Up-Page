@@ -83,3 +83,15 @@ body{
 .options a:hover{
     text-decoration: underline;
 }
+
+button{
+    width: 100%;
+    padding: 12px;
+    background: #ff4b5c;
+    border: none;
+    border-radius: 25px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
