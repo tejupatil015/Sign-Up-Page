@@ -99,3 +99,9 @@ button{
 button:hover{
     background: #ff1e3c;
 }
+
+.register{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+}
