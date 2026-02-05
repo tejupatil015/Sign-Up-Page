@@ -105,3 +105,8 @@ button:hover{
     text-align: center;
     font-size: 14px;
 }
+
+.register a{
+    color: #ffcccb;
+    text-decoration: none;
+}    
