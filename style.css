@@ -76,3 +76,7 @@ body{
     margin-bottom: 25px;
 }
 
+.options a{
+    color: #ffcccb;
+    text-decoration: none;
+}
