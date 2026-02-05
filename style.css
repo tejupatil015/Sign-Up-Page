@@ -80,3 +80,6 @@ body{
     color: #ffcccb;
     text-decoration: none;
 }
+.options a:hover{
+    text-decoration: underline;
+}
