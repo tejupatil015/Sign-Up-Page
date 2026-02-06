@@ -64,17 +64,20 @@ Small screens (phones)
 Medium screens (tablets)
 Large screens (desktops)
 Layout adapts smoothly across all devices.
+
 ▶️ Getting Started
 Clone Repository
 Copy code
 Bash
-git clone https://github.com/your-username/secure-sign-in.git
+git clone https://github.com/tejupatil015/Sign-Up-Page/tree/main
+
 Run Locally
 Copy code
 Bash
 cd secure-sign-in
 open index.html
 No frameworks or dependencies required.
+
 🧪 Testing Checklist
 ✔ Valid inputs accepted
 ❌ Invalid email rejected
@@ -85,16 +88,19 @@ No frameworks or dependencies required.
 🔐 Backend authentication (Node.js / Firebase)
 🔑 Forgot password & OTP login
 🌙 Dark mode support
-🧾 Sign-up & profile pages
-🔄 JWT-based authentication
+
+
 👨‍💻 Author
 Teju Patil
 Frontend Developer | Engineering Student
 Electronics & Telecommunication
 Passionate about building clean & scalable web interfaces
+
 📄 License
 This project is open-source and available for learning and personal use.
+
 ⭐ Appreciation
 If you found this project useful:
+
 ⭐ Star the repository
 🍴 Fork and customize
